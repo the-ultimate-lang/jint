@@ -1,15 +1,15 @@
 using System.Runtime.CompilerServices;
 using System.Text;
-using Jint.Collections;
-using Jint.Native.Object;
-using Jint.Native.RegExp;
-using Jint.Native.Symbol;
-using Jint.Pooling;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.RegExp;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Pooling;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Native.String
+namespace Ultimate.Language.Jint.Native.String
 {
     /// <summary>
     /// https://tc39.es/ecma262/#sec-properties-of-the-string-prototype-object

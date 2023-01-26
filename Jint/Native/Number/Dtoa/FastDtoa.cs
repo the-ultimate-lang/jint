@@ -31,9 +31,9 @@
 // The original revision was 67d1049b0bf9 from the mozilla-central tree.
 
 using System.Diagnostics;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.Number.Dtoa
+namespace Ultimate.Language.Jint.Native.Number.Dtoa
 {
     internal sealed class FastDtoa
     {

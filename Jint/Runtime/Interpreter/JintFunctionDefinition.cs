@@ -1,13 +1,13 @@
 using System.Runtime.CompilerServices;
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Argument;
-using Jint.Native.Function;
-using Jint.Native.Promise;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter.Expressions;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Argument;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Promise;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
-namespace Jint.Runtime.Interpreter;
+namespace Ultimate.Language.Jint.Runtime.Interpreter;
 
 /// <summary>
 /// Works as memento for function execution. Optimization to cache things that don't change.

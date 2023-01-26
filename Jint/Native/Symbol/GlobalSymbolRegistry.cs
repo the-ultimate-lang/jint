@@ -1,6 +1,6 @@
 using System.Diagnostics.CodeAnalysis;
 
-namespace Jint.Native.Symbol;
+namespace Ultimate.Language.Jint.Native.Symbol;
 
 public sealed class GlobalSymbolRegistry
 {

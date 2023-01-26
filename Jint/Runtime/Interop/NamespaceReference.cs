@@ -1,10 +1,10 @@
 using System.Globalization;
 using System.Reflection;
-using Jint.Native;
-using Jint.Native.Object;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     /// <summary>
     /// Any instance on this class represents a reference to a CLR namespace.

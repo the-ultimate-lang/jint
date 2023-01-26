@@ -1,6 +1,6 @@
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     internal static class CommonProperties
     {

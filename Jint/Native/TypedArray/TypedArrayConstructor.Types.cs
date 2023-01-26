@@ -1,6 +1,6 @@
-using Jint.Runtime;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.TypedArray
+namespace Ultimate.Language.Jint.Native.TypedArray
 {
     public sealed class Int8ArrayConstructor : TypedArrayConstructor
     {

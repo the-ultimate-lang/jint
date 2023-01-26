@@ -1,12 +1,12 @@
 using System.Collections;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
-using Jint.Native.Object;
-using Jint.Native.Symbol;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.Array
+namespace Ultimate.Language.Jint.Native.Array
 {
     public class ArrayInstance : ObjectInstance, IEnumerable<JsValue>
     {

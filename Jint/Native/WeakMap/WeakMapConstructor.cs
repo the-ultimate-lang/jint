@@ -1,10 +1,10 @@
-using Jint.Native.Function;
-using Jint.Native.Iterator;
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Iterator;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.WeakMap
+namespace Ultimate.Language.Jint.Native.WeakMap
 {
     internal sealed class WeakMapConstructor : FunctionInstance, IConstructor
     {

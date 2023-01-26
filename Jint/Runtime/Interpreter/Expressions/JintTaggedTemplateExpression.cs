@@ -1,10 +1,10 @@
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Object;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.References;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.References;
 
-namespace Jint.Runtime.Interpreter.Expressions;
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
 internal sealed class JintTaggedTemplateExpression : JintExpression
 {

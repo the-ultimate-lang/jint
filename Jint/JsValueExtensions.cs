@@ -2,16 +2,16 @@ using System.Diagnostics.Contracts;
 using System.Numerics;
 using System.Runtime.CompilerServices;
 using Esprima;
-using Jint.Native;
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Native.Promise;
-using Jint.Native.RegExp;
-using Jint.Native.Symbol;
-using Jint.Native.TypedArray;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Promise;
+using Ultimate.Language.Jint.Native.RegExp;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Native.TypedArray;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint
+namespace Ultimate.Language.Jint
 {
     public static class JsValueExtensions
     {

@@ -1,8 +1,8 @@
-using Jint.Native;
-using Jint.Native.Object;
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Environments;
 
-namespace Jint.Runtime.Debugger
+namespace Ultimate.Language.Jint.Runtime.Debugger
 {
     /// <summary>
     /// Scope information, bindings, and values for a single scope in the scope chain

@@ -1,11 +1,11 @@
 using System.Collections;
-using Jint.Native.Number;
-using Jint.Native.Object;
-using Jint.Native.TypedArray;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native.Number;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.TypedArray;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.Array
+namespace Ultimate.Language.Jint.Native.Array
 {
     internal abstract class ArrayOperations : IEnumerable<JsValue>
     {

@@ -19,7 +19,7 @@ using System.Threading;
 using System.Runtime.CompilerServices;
 #endif
 
-namespace Jint.Pooling
+namespace Ultimate.Language.Jint.Pooling
 {
     /// <summary>
     /// Generic implementation of object pooling pattern with predefined pool size limit. The main

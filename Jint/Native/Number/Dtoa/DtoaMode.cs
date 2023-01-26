@@ -1,6 +1,6 @@
 #nullable disable
 
-namespace Jint.Native.Number.Dtoa
+namespace Ultimate.Language.Jint.Native.Number.Dtoa
 {
     internal enum DtoaMode
     {

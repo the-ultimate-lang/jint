@@ -1,7 +1,7 @@
 using Esprima;
 using Esprima.Ast;
 
-namespace Jint.Runtime.Modules;
+namespace Ultimate.Language.Jint.Runtime.Modules;
 
 public sealed class DefaultModuleLoader : IModuleLoader
 {

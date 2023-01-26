@@ -1,8 +1,8 @@
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Iterator;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Iterator;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     internal sealed class JintSpreadExpression : JintExpression
     {

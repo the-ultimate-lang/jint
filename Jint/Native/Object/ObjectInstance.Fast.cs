@@ -1,7 +1,7 @@
 using System.Runtime.CompilerServices;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.Object;
+namespace Ultimate.Language.Jint.Native.Object;
 
 /// <summary>
 /// Fast access helpers which violate JavaScript specification, but helpful when accessed

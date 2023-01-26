@@ -1,4 +1,4 @@
-namespace Jint.Native.Function
+namespace Ultimate.Language.Jint.Native.Function
 {
     internal enum FunctionKind
     {

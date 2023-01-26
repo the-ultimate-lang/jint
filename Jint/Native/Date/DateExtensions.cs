@@ -1,4 +1,4 @@
-namespace Jint.Native.Date;
+namespace Ultimate.Language.Jint.Native.Date;
 
 internal static class DateExtensions
 {

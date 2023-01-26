@@ -1,13 +1,13 @@
 #nullable disable
 
-using Jint.Collections;
-using Jint.Native;
-using Jint.Native.Array;
-using Jint.Native.Object;
-using Jint.Native.Symbol;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Array;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Runtime.Modules;
+namespace Ultimate.Language.Jint.Runtime.Modules;
 
 /// <summary>
 /// https://tc39.es/ecma262/#sec-module-namespace-exotic-objects

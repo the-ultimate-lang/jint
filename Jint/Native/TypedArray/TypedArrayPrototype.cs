@@ -1,7 +1,7 @@
-using Jint.Collections;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.TypedArray;
+namespace Ultimate.Language.Jint.Native.TypedArray;
 
 /// <summary>
 /// https://tc39.es/ecma262/#sec-properties-of-typedarray-prototype-objects

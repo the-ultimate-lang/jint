@@ -1,8 +1,8 @@
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.Environments;
 
-namespace Jint.Runtime.Interpreter.Statements
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Statements
 {
     /// <summary>
     /// https://tc39.es/ecma262/#sec-try-statement

@@ -1,4 +1,4 @@
-namespace Jint;
+namespace Ultimate.Language.Jint;
 
 /// <summary>
 /// A constraint that engine can check for validate during statement execution.

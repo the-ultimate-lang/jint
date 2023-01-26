@@ -2,7 +2,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using Esprima.Ast;
 
-namespace Jint.Runtime.Interpreter.Statements;
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Statements;
 
 /// <summary>
 /// Helper to remove virtual dispatch from block statements when it's most common target.

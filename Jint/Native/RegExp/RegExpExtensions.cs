@@ -1,7 +1,7 @@
 using System.Diagnostics.CodeAnalysis;
-using Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Object;
 
-namespace Jint.Native.RegExp
+namespace Ultimate.Language.Jint.Native.RegExp
 {
     internal static class RegExpExtensions
     {

@@ -1,7 +1,7 @@
 using System.Text;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native;
+namespace Ultimate.Language.Jint.Native;
 
 public class JsString : JsValue, IEquatable<JsString>
 {

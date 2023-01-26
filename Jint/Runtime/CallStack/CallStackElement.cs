@@ -1,9 +1,9 @@
 using Esprima;
 using Esprima.Ast;
-using Jint.Native.Function;
-using Jint.Runtime.Interpreter.Expressions;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
-namespace Jint.Runtime.CallStack
+namespace Ultimate.Language.Jint.Runtime.CallStack
 {
     internal readonly struct CallStackElement : IEquatable<CallStackElement>
     {

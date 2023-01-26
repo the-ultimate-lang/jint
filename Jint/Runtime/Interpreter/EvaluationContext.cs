@@ -1,7 +1,7 @@
 using System.Runtime.CompilerServices;
 using Esprima.Ast;
 
-namespace Jint.Runtime.Interpreter;
+namespace Ultimate.Language.Jint.Runtime.Interpreter;
 
 /// <summary>
 /// Per Engine.Evaluate() call context.

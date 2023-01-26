@@ -3,7 +3,7 @@
 using System.Collections;
 using System.Runtime.CompilerServices;
 
-namespace Jint.Collections
+namespace Ultimate.Language.Jint.Collections
 {
     internal class HybridDictionary<TValue> : IEnumerable<KeyValuePair<Key, TValue>>
     {

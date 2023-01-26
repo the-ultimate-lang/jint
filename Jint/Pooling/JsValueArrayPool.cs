@@ -1,7 +1,7 @@
 using System.Runtime.CompilerServices;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Pooling
+namespace Ultimate.Language.Jint.Pooling
 {
     /// <summary>
     /// Cache reusable <see cref="JsValue" /> array instances as we allocate them a lot.

@@ -1,7 +1,7 @@
-using Jint.Native.Object;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.BigInt;
+namespace Ultimate.Language.Jint.Native.BigInt;
 
 internal sealed class BigIntInstance : ObjectInstance, IPrimitiveInstance
 {

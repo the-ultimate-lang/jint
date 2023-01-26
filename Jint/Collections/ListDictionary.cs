@@ -2,9 +2,9 @@
 
 using System.Collections;
 using System.Runtime.CompilerServices;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Collections
+namespace Ultimate.Language.Jint.Collections
 {
     internal sealed class ListDictionary<TValue> : IEnumerable<KeyValuePair<Key, TValue>>
     {

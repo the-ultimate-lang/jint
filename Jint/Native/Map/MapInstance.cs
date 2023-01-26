@@ -1,10 +1,10 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.Map;
+namespace Ultimate.Language.Jint.Native.Map;
 
 internal sealed class MapInstance : ObjectInstance
 {

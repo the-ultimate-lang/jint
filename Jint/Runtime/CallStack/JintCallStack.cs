@@ -2,13 +2,13 @@ using System.Diagnostics.CodeAnalysis;
 using System.Text;
 using Esprima;
 using Esprima.Ast;
-using Jint.Collections;
-using Jint.Native.Function;
-using Jint.Pooling;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter.Expressions;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Pooling;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
-namespace Jint.Runtime.CallStack
+namespace Ultimate.Language.Jint.Runtime.CallStack
 {
     // smaller version with only required info
     internal readonly record struct CallStackExecutionContext

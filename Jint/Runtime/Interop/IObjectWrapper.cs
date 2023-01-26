@@ -1,4 +1,4 @@
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
 	public interface IObjectWrapper
     {

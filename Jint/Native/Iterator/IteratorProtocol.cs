@@ -1,7 +1,7 @@
-using Jint.Native.Object;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.Iterator
+namespace Ultimate.Language.Jint.Native.Iterator
 {
     /// <summary>
     /// Handles looping of iterator values, sub-classes can use to implement wanted actions.

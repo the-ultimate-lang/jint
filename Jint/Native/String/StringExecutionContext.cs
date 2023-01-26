@@ -1,6 +1,6 @@
 using System.Threading;
 
-namespace Jint.Native.String
+namespace Ultimate.Language.Jint.Native.String
 {
     /// <summary>
     /// Helper to cache common data structures when manipulating strings.

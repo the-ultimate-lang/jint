@@ -1,14 +1,14 @@
-﻿using Jint.Collections;
-using Jint.Native.Array;
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Pooling;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop;
-using Jint.Runtime.Interpreter.Expressions;
+﻿using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.Array;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Pooling;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
-namespace Jint.Native.String
+namespace Ultimate.Language.Jint.Native.String
 {
     /// <summary>
     /// https://tc39.es/ecma262/#sec-string-constructor

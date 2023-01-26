@@ -1,8 +1,8 @@
 using System.Runtime.CompilerServices;
-using Jint.Collections;
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Runtime.Environments;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     internal sealed class ExecutionContextStack
     {

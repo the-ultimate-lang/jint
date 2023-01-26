@@ -2,15 +2,15 @@ using System.Globalization;
 using System.Runtime.CompilerServices;
 using System.Text;
 using Esprima;
-using Jint.Collections;
-using Jint.Native.Object;
-using Jint.Native.String;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Descriptors.Specialized;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.String;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Descriptors.Specialized;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Native.Global
+namespace Ultimate.Language.Jint.Native.Global
 {
     public sealed class GlobalObject : ObjectInstance
     {

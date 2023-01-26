@@ -2,9 +2,9 @@ using System.Diagnostics.CodeAnalysis;
 using System.Dynamic;
 using System.Reflection;
 using System.Threading;
-using Jint.Runtime.Interop.Reflection;
+using Ultimate.Language.Jint.Runtime.Interop.Reflection;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     /// <summary>
     /// Interop strategy for resolving types and members.

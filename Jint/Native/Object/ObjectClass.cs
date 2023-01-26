@@ -1,4 +1,4 @@
-namespace Jint.Native.Object
+namespace Ultimate.Language.Jint.Native.Object
 {
     internal enum ObjectClass : byte
     {

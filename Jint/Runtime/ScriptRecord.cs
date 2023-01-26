@@ -1,5 +1,5 @@
 using Esprima.Ast;
 
-namespace Jint.Runtime;
+namespace Ultimate.Language.Jint.Runtime;
 
 internal sealed record ScriptRecord(Realm Realm, Script EcmaScriptCode, string Location) : IScriptOrModule;

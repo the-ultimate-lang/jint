@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics.CodeAnalysis;
-using Jint.Native;
-using Jint.Native.Function;
-using Jint.Native.Object;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
 
-namespace Jint.Runtime.Environments
+namespace Ultimate.Language.Jint.Runtime.Environments
 {
     internal static class JintEnvironment
     {

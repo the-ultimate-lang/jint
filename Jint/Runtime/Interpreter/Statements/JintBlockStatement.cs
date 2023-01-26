@@ -1,7 +1,7 @@
 using Esprima.Ast;
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Environments;
 
-namespace Jint.Runtime.Interpreter.Statements
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Statements
 {
     internal sealed class JintBlockStatement : JintStatement<BlockStatement>
     {

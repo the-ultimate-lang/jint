@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Environments
+namespace Ultimate.Language.Jint.Runtime.Environments
 {
     /// <summary>
     /// Base implementation of an Environment Record

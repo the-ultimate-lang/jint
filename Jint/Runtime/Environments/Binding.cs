@@ -1,7 +1,7 @@
 using System.Diagnostics;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Environments
+namespace Ultimate.Language.Jint.Runtime.Environments
 {
     [DebuggerDisplay("Mutable: {Mutable}, Strict: {Strict}, CanBeDeleted: {CanBeDeleted}, Value: {Value}")]
     public readonly struct Binding

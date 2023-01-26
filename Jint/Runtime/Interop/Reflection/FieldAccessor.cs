@@ -1,6 +1,6 @@
 using System.Reflection;
 
-namespace Jint.Runtime.Interop.Reflection
+namespace Ultimate.Language.Jint.Runtime.Interop.Reflection
 {
     internal sealed class FieldAccessor : ReflectionAccessor
     {

@@ -1,8 +1,8 @@
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Promise;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Promise;
 
-namespace Jint.Runtime.Interpreter.Expressions;
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
 internal sealed class JintImportExpression : JintExpression
 {

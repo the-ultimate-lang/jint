@@ -1,12 +1,12 @@
 using System.Globalization;
 using System.Reflection;
-using Jint.Native;
-using Jint.Runtime;
-using Jint.Runtime.Debugger;
-using Jint.Runtime.Interop;
-using Jint.Runtime.Modules;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Debugger;
+using Ultimate.Language.Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Runtime.Modules;
 
-namespace Jint
+namespace Ultimate.Language.Jint
 {
     /// <summary>
     /// Compatibility layer to allow fluent syntax against options object.

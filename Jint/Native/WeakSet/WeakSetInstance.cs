@@ -1,9 +1,9 @@
 using System.Runtime.CompilerServices;
 
-using Jint.Native.Object;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.WeakSet;
+namespace Ultimate.Language.Jint.Native.WeakSet;
 
 internal sealed class WeakSetInstance : ObjectInstance
 {

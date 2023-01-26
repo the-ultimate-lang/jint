@@ -1,4 +1,4 @@
-namespace Jint.Runtime.Debugger
+namespace Ultimate.Language.Jint.Runtime.Debugger
 {
     /// <summary>
     /// Choice of handling for script <c>debugger</c> statements.

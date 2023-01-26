@@ -1,6 +1,6 @@
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint;
+namespace Ultimate.Language.Jint;
 
 /// <summary>
 /// https://tc39.es/ecma262/#sec-agents , still a work in progress, mostly placeholder

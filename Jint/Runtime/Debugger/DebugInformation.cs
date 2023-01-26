@@ -1,8 +1,8 @@
 ﻿using Esprima;
 using Esprima.Ast;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Debugger
+namespace Ultimate.Language.Jint.Runtime.Debugger
 {
     public sealed class DebugInformation : EventArgs
     {

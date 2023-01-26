@@ -1,9 +1,9 @@
 using System.Collections;
 using Esprima;
-using Jint.Native;
-using Jint.Runtime.CallStack;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.CallStack;
 
-namespace Jint.Runtime.Debugger
+namespace Ultimate.Language.Jint.Runtime.Debugger
 {
     public sealed class DebugCallStack : IReadOnlyList<CallFrame>
     {

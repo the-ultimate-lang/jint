@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
-using Jint.Collections;
-using Jint.Native;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Environments
+namespace Ultimate.Language.Jint.Runtime.Environments
 {
     /// <summary>
     /// Represents a declarative environment record

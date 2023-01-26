@@ -1,7 +1,7 @@
 using System.Diagnostics.CodeAnalysis;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     /// <summary>
     /// When implemented, converts a CLR value to a <see cref="JsValue"/> instance

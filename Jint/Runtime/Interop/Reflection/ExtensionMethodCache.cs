@@ -1,8 +1,8 @@
 using System.Reflection;
 using System.Threading;
-using Jint.Extensions;
+using Ultimate.Language.Jint.Extensions;
 
-namespace Jint.Runtime.Interop.Reflection
+namespace Ultimate.Language.Jint.Runtime.Interop.Reflection
 {
     /// <summary>
     /// A extension method lookup that can be shared between engines, build based on extension methods provided via options.

@@ -1,13 +1,13 @@
 using System.Collections.Concurrent;
 using System.Reflection;
-using Jint.Collections;
-using Jint.Native;
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop.Reflection;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop.Reflection;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     public sealed class TypeReference : FunctionInstance, IConstructor, IObjectWrapper
     {

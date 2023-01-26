@@ -1,9 +1,9 @@
 using System.Globalization;
-using Jint.Native.Date;
-using Jint.Native.Object;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Date;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native;
+namespace Ultimate.Language.Jint.Native;
 
 public sealed class JsDate : ObjectInstance
 {

@@ -1,7 +1,7 @@
-using Jint.Native;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Runtime.Interop.Reflection
+namespace Ultimate.Language.Jint.Runtime.Interop.Reflection
 {
     internal sealed class ConstantValueAccessor : ReflectionAccessor
     {

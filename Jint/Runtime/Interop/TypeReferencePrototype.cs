@@ -1,7 +1,7 @@
-//using Jint.Native;
-//using Jint.Native.Object;
+//using Ultimate.Language.Jint.Native;
+//using Ultimate.Language.Jint.Native.Object;
 
-//namespace Jint.Runtime.Interop
+//namespace Ultimate.Language.Jint.Runtime.Interop
 //{
 //    public sealed class TypeReferencePrototype : ObjectInstance
 //    {

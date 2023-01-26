@@ -1,6 +1,6 @@
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Collections
+namespace Ultimate.Language.Jint.Collections
 {
     internal sealed class PropertyDictionary : HybridDictionary<PropertyDescriptor>
     {

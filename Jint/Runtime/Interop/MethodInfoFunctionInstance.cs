@@ -1,11 +1,11 @@
 using System.Globalization;
 using System.Linq.Expressions;
 using System.Reflection;
-using Jint.Extensions;
-using Jint.Native;
-using Jint.Native.Function;
+using Ultimate.Language.Jint.Extensions;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     internal sealed class MethodInfoFunctionInstance : FunctionInstance
     {

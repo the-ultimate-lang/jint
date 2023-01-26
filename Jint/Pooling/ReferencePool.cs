@@ -1,7 +1,7 @@
-using Jint.Native;
-using Jint.Runtime.References;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.References;
 
-namespace Jint.Pooling
+namespace Ultimate.Language.Jint.Pooling
 {
     /// <summary>
     /// Cache reusable <see cref="Reference" /> instances as we allocate them a lot.

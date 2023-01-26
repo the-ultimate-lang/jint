@@ -1,12 +1,12 @@
-using Jint.Collections;
-using Jint.Native.Function;
-using Jint.Native.Global;
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Global;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Native.Number
+namespace Ultimate.Language.Jint.Native.Number
 {
     /// <summary>
     /// https://tc39.es/ecma262/#sec-number-constructor

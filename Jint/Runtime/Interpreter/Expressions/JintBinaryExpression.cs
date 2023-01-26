@@ -4,13 +4,13 @@ using System.Numerics;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using Esprima.Ast;
-using Jint.Extensions;
-using Jint.Native;
-using Jint.Native.Number;
-using Jint.Native.Object;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Extensions;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Number;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     internal abstract class JintBinaryExpression : JintExpression
     {

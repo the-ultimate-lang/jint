@@ -1,6 +1,6 @@
 using System.Runtime.CompilerServices;
 
-namespace Jint.Native;
+namespace Ultimate.Language.Jint.Native;
 
 internal sealed class SameValueZeroComparer : IEqualityComparer<JsValue>
 {

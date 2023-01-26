@@ -1,14 +1,14 @@
 using System.Threading;
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Native.Symbol;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Descriptors.Specialized;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Descriptors.Specialized;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Native.Argument
+namespace Ultimate.Language.Jint.Native.Argument
 {
     /// <summary>
     /// http://www.ecma-international.org/ecma-262/5.1/#sec-10.6

@@ -1,4 +1,4 @@
-namespace Jint
+namespace Ultimate.Language.Jint
 {
     public enum DeclarationBindingType
     {

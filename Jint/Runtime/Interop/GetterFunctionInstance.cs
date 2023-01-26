@@ -1,7 +1,7 @@
-using Jint.Native;
-using Jint.Native.Function;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     /// <summary>
     /// Represents a FunctionInstance wrapping a Clr getter.

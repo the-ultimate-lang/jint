@@ -1,7 +1,7 @@
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.Function
+namespace Ultimate.Language.Jint.Native.Function
 {
     internal sealed class ThrowTypeError : FunctionInstance
     {

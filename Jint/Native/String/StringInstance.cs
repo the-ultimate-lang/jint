@@ -1,8 +1,8 @@
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.String;
+namespace Ultimate.Language.Jint.Native.String;
 
 internal class StringInstance : ObjectInstance, IPrimitiveInstance
 {

@@ -1,4 +1,4 @@
-namespace Jint.Native.Iterator;
+namespace Ultimate.Language.Jint.Native.Iterator;
 
 internal enum ArrayIteratorType
 {

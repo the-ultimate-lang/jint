@@ -1,11 +1,11 @@
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter.Expressions;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
-namespace Jint.Runtime.Interpreter.Statements;
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Statements;
 
 internal sealed class JintExportDefaultDeclaration : JintStatement<ExportDefaultDeclaration>
 {

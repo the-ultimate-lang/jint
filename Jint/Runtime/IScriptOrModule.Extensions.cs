@@ -1,7 +1,7 @@
 using Esprima;
-using Jint.Runtime.Modules;
+using Ultimate.Language.Jint.Runtime.Modules;
 
-namespace Jint.Runtime;
+namespace Ultimate.Language.Jint.Runtime;
 
 internal static class ScriptOrModuleExtensions
 {

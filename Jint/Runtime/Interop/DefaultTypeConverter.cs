@@ -3,13 +3,13 @@ using System.Collections.ObjectModel;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq.Expressions;
 using System.Reflection;
-using Jint.Extensions;
-using Jint.Native;
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Extensions;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     public class DefaultTypeConverter : ITypeConverter
     {

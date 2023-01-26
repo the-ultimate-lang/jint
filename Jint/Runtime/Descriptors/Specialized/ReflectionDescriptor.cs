@@ -1,8 +1,8 @@
 using System.Reflection;
-using Jint.Native;
-using Jint.Runtime.Interop.Reflection;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.Interop.Reflection;
 
-namespace Jint.Runtime.Descriptors.Specialized
+namespace Ultimate.Language.Jint.Runtime.Descriptors.Specialized
 {
     internal sealed class ReflectionDescriptor : PropertyDescriptor
     {

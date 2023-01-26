@@ -3,13 +3,13 @@ using System.Reflection;
 using System.Runtime.ExceptionServices;
 using Esprima;
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Error;
-using Jint.Runtime.CallStack;
-using Jint.Runtime.Modules;
-using Jint.Runtime.References;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Error;
+using Ultimate.Language.Jint.Runtime.CallStack;
+using Ultimate.Language.Jint.Runtime.Modules;
+using Ultimate.Language.Jint.Runtime.References;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     internal static class ExceptionHelper
     {

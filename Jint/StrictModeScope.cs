@@ -1,6 +1,6 @@
 using System.Runtime.InteropServices;
 
-namespace Jint
+namespace Ultimate.Language.Jint
 {
     [StructLayout(LayoutKind.Auto)]
     public readonly struct StrictModeScope : IDisposable

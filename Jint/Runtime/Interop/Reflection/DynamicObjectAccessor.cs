@@ -1,8 +1,8 @@
 using System.Dynamic;
 using System.Reflection;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Interop.Reflection
+namespace Ultimate.Language.Jint.Runtime.Interop.Reflection
 {
     internal sealed class DynamicObjectAccessor : ReflectionAccessor
     {

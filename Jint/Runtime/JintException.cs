@@ -1,6 +1,6 @@
 using System.Runtime.Serialization;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     /// <summary>
     /// Base class for exceptions thrown by Jint.

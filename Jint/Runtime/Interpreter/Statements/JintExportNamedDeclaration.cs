@@ -1,7 +1,7 @@
 using Esprima.Ast;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Interpreter.Statements;
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Statements;
 
 internal sealed class JintExportNamedDeclaration : JintStatement<ExportNamedDeclaration>
 {

@@ -1,12 +1,12 @@
-using Jint.Collections;
-using Jint.Native.Iterator;
-using Jint.Native.Object;
-using Jint.Native.Symbol;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.Iterator;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Native.Map;
+namespace Ultimate.Language.Jint.Native.Map;
 
 /// <summary>
 /// https://tc39.es/ecma262/#sec-%mapiteratorprototype%-object

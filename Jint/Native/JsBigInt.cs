@@ -1,7 +1,7 @@
 using System.Numerics;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native;
+namespace Ultimate.Language.Jint.Native;
 
 public sealed class JsBigInt : JsValue, IEquatable<JsBigInt>
 {

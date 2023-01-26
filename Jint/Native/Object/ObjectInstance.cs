@@ -1,20 +1,20 @@
 using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
-using Jint.Collections;
-using Jint.Native.Array;
-using Jint.Native.BigInt;
-using Jint.Native.Boolean;
-using Jint.Native.Function;
-using Jint.Native.Number;
-using Jint.Native.RegExp;
-using Jint.Native.String;
-using Jint.Native.Symbol;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.Array;
+using Ultimate.Language.Jint.Native.BigInt;
+using Ultimate.Language.Jint.Native.Boolean;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Number;
+using Ultimate.Language.Jint.Native.RegExp;
+using Ultimate.Language.Jint.Native.String;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Native.Object
+namespace Ultimate.Language.Jint.Native.Object
 {
     public partial class ObjectInstance : JsValue, IEquatable<ObjectInstance>
     {

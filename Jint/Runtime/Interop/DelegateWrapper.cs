@@ -1,10 +1,10 @@
 using System.Globalization;
 using System.Reflection;
-using Jint.Extensions;
-using Jint.Native;
-using Jint.Native.Function;
+using Ultimate.Language.Jint.Extensions;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     /// <summary>
     /// Represents a FunctionInstance wrapper around a CLR method. This is used by user to pass

@@ -1,7 +1,7 @@
-using Jint.Native;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Collections
+namespace Ultimate.Language.Jint.Collections
 {
     /// <summary>
     /// Helps traversing objects and checks for cyclic references.

@@ -1,14 +1,14 @@
 ﻿using System.Runtime.CompilerServices;
 using Esprima.Ast;
-using Jint.Collections;
-using Jint.Native;
-using Jint.Native.Function;
-using Jint.Native.Iterator;
-using Jint.Native.Object;
-using Jint.Runtime.Interpreter;
-using Jint.Runtime.Interpreter.Expressions;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Iterator;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Interpreter;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
-namespace Jint.Runtime.Environments
+namespace Ultimate.Language.Jint.Runtime.Environments
 {
     /// <summary>
     /// https://tc39.es/ecma262/#sec-function-environment-records

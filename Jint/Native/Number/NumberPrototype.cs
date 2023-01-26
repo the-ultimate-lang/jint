@@ -1,15 +1,15 @@
 using System.Diagnostics;
 using System.Globalization;
 using System.Text;
-using Jint.Collections;
-using Jint.Native.Number.Dtoa;
-using Jint.Native.Object;
-using Jint.Pooling;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.Number.Dtoa;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Pooling;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Native.Number
+namespace Ultimate.Language.Jint.Native.Number
 {
     /// <summary>
     /// https://tc39.es/ecma262/#sec-properties-of-the-number-prototype-object

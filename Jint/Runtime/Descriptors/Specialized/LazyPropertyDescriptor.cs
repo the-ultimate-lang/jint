@@ -1,6 +1,6 @@
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Descriptors.Specialized
+namespace Ultimate.Language.Jint.Runtime.Descriptors.Specialized
 {
     internal sealed class LazyPropertyDescriptor : PropertyDescriptor
     {

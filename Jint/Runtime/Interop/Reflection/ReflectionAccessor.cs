@@ -1,11 +1,11 @@
 using System.Globalization;
 using System.Reflection;
-using Jint.Extensions;
-using Jint.Native;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Descriptors.Specialized;
+using Ultimate.Language.Jint.Extensions;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Descriptors.Specialized;
 
-namespace Jint.Runtime.Interop.Reflection
+namespace Ultimate.Language.Jint.Runtime.Interop.Reflection
 {
     /// <summary>
     /// Strategy to read and write CLR object properties and fields.

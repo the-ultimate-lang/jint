@@ -1,11 +1,11 @@
 using Esprima;
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Runtime;
-using Jint.Runtime.Interop;
-using Jint.Runtime.Modules;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Runtime.Modules;
 
-namespace Jint;
+namespace Ultimate.Language.Jint;
 
 public sealed class ModuleBuilder
 {

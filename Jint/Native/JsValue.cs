@@ -3,14 +3,14 @@ using System.Diagnostics.CodeAnalysis;
 using System.Diagnostics.Contracts;
 using System.Numerics;
 using System.Runtime.CompilerServices;
-using Jint.Native.Generator;
-using Jint.Native.Iterator;
-using Jint.Native.Number;
-using Jint.Native.Object;
-using Jint.Native.Symbol;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Generator;
+using Ultimate.Language.Jint.Native.Iterator;
+using Ultimate.Language.Jint.Native.Number;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native
+namespace Ultimate.Language.Jint.Native
 {
     [DebuggerTypeProxy(typeof(JsValueDebugView))]
     public abstract class JsValue : IEquatable<JsValue>

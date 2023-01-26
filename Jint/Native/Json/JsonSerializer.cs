@@ -1,17 +1,17 @@
-using Jint.Collections;
-using Jint.Native.BigInt;
-using Jint.Native.Boolean;
-using Jint.Native.Global;
-using Jint.Native.Number;
-using Jint.Native.Object;
-using Jint.Native.Proxy;
-using Jint.Native.String;
-using Jint.Pooling;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.BigInt;
+using Ultimate.Language.Jint.Native.Boolean;
+using Ultimate.Language.Jint.Native.Global;
+using Ultimate.Language.Jint.Native.Number;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Proxy;
+using Ultimate.Language.Jint.Native.String;
+using Ultimate.Language.Jint.Pooling;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Native.Json
+namespace Ultimate.Language.Jint.Native.Json
 {
     public sealed class JsonSerializer
     {

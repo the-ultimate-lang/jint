@@ -1,7 +1,7 @@
 using Esprima.Ast;
-using Jint.Runtime.Debugger;
+using Ultimate.Language.Jint.Runtime.Debugger;
 
-namespace Jint.Runtime.Interpreter.Statements
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Statements
 {
     internal sealed class JintDebuggerStatement : JintStatement<DebuggerStatement>
     {

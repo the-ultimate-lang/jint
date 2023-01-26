@@ -2,9 +2,9 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using Esprima;
 using Esprima.Ast;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime;
+namespace Ultimate.Language.Jint.Runtime;
 
 public enum CompletionType : byte
 {

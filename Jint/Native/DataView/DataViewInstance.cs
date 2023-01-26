@@ -1,7 +1,7 @@
-using Jint.Native.ArrayBuffer;
-using Jint.Native.Object;
+using Ultimate.Language.Jint.Native.ArrayBuffer;
+using Ultimate.Language.Jint.Native.Object;
 
-namespace Jint.Native.DataView;
+namespace Ultimate.Language.Jint.Native.DataView;
 
 /// <summary>
 /// https://tc39.es/ecma262/#sec-properties-of-dataview-instances

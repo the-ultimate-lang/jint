@@ -1,9 +1,9 @@
 using System.Runtime.ExceptionServices;
-using Jint.Native;
-using Jint.Native.Function;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     /// <summary>
     /// Wraps a Clr method into a FunctionInstance

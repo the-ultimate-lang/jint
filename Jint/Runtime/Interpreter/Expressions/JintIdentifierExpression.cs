@@ -1,11 +1,11 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Argument;
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Argument;
+using Ultimate.Language.Jint.Runtime.Environments;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     internal sealed class JintIdentifierExpression : JintExpression
     {

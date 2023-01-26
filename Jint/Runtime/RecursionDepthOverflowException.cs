@@ -1,6 +1,6 @@
-using Jint.Runtime.CallStack;
+using Ultimate.Language.Jint.Runtime.CallStack;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     public sealed class RecursionDepthOverflowException : JintException
     {

@@ -1,4 +1,4 @@
-namespace Jint.Runtime.Modules;
+namespace Ultimate.Language.Jint.Runtime.Modules;
 
 internal enum ModuleStatus
 {

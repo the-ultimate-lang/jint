@@ -1,7 +1,7 @@
-using Jint.Native.Object;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.Iterator;
+namespace Ultimate.Language.Jint.Native.Iterator;
 
 /// <summary>
 /// https://tc39.es/ecma262/#sec-createiterresultobject

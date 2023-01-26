@@ -1,9 +1,9 @@
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 using System.Reflection;
 using System.Runtime.CompilerServices;
-using Jint.Extensions;
+using Ultimate.Language.Jint.Extensions;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     internal sealed class MethodDescriptor
     {

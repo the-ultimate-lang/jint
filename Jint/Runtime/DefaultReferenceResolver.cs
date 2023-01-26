@@ -1,8 +1,8 @@
-using Jint.Native;
-using Jint.Runtime.Interop;
-using Jint.Runtime.References;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Runtime.References;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     internal sealed class DefaultReferenceResolver : IReferenceResolver
     {

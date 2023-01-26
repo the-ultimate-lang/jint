@@ -1,10 +1,10 @@
-using Jint.Collections;
-using Jint.Native.Function;
-using Jint.Native.Symbol;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.AsyncFunction;
+namespace Ultimate.Language.Jint.Native.AsyncFunction;
 
 /// <summary>
 /// https://tc39.es/ecma262/#sec-async-function-prototype-properties

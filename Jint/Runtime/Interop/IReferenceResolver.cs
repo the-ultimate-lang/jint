@@ -1,7 +1,7 @@
-using Jint.Native;
-using Jint.Runtime.References;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.References;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
     /// <summary>
     /// Reference resolver allows customizing behavior for reference resolving. This can be useful in cases where

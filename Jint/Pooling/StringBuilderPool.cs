@@ -3,7 +3,7 @@
 using System.Diagnostics;
 using System.Text;
 
-namespace Jint.Pooling
+namespace Ultimate.Language.Jint.Pooling
 {
     /// <summary>
     /// Pooling of StringBuilder instances.

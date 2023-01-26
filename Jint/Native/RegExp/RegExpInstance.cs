@@ -1,9 +1,9 @@
 using System.Text.RegularExpressions;
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.RegExp
+namespace Ultimate.Language.Jint.Native.RegExp
 {
     public sealed class RegExpInstance : ObjectInstance
     {

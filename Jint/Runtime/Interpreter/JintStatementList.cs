@@ -1,10 +1,10 @@
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Error;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter.Statements;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Error;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter.Statements;
 
-namespace Jint.Runtime.Interpreter
+namespace Ultimate.Language.Jint.Runtime.Interpreter
 {
     internal sealed class JintStatementList
     {

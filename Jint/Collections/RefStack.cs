@@ -1,9 +1,9 @@
 using System.Collections;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Collections
+namespace Ultimate.Language.Jint.Collections
 {
     /// <summary>
     /// Stack for struct types.

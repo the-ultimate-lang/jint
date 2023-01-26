@@ -1,4 +1,4 @@
-namespace Jint.Runtime.CallStack
+namespace Ultimate.Language.Jint.Runtime.CallStack
 {
     internal sealed class CallStackElementComparer: IEqualityComparer<CallStackElement>
     {

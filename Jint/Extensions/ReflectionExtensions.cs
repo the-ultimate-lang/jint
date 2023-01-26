@@ -1,10 +1,10 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Reflection;
 using System.Runtime.CompilerServices;
-using Jint.Native;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Extensions
+namespace Ultimate.Language.Jint.Extensions
 {
     internal static class ReflectionExtensions
     {

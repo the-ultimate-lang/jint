@@ -1,8 +1,8 @@
 using System.Threading;
-using Jint.Constraints;
+using Ultimate.Language.Jint.Constraints;
 
 // ReSharper disable once CheckNamespace
-namespace Jint;
+namespace Ultimate.Language.Jint;
 
 public static class ConstraintsOptionsExtensions
 {

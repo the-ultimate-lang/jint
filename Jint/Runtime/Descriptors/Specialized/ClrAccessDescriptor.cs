@@ -1,8 +1,8 @@
-using Jint.Native;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Runtime.Descriptors.Specialized
+namespace Ultimate.Language.Jint.Runtime.Descriptors.Specialized
 {
     internal sealed class ClrAccessDescriptor : PropertyDescriptor
     {

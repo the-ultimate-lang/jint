@@ -1,7 +1,7 @@
 using Esprima.Ast;
-using Jint.Runtime.Modules;
+using Ultimate.Language.Jint.Runtime.Modules;
 
-namespace Jint
+namespace Ultimate.Language.Jint
 {
     internal sealed class HoistingScope
     {

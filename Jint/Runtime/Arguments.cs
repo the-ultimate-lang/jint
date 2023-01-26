@@ -1,7 +1,7 @@
 using System.Runtime.CompilerServices;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     public static class Arguments
     {

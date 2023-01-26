@@ -1,12 +1,12 @@
 ﻿#nullable disable
 
 using Esprima.Ast;
-using Jint.Native.Object;
-using Jint.Native.Promise;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Promise;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter;
 
-namespace Jint.Runtime.Modules;
+namespace Ultimate.Language.Jint.Runtime.Modules;
 
 /// <summary>
 /// https://tc39.es/ecma262/#importentry-record

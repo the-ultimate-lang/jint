@@ -1,9 +1,9 @@
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Runtime.Environments;
-using Jint.Runtime.References;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.References;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     internal sealed class JintUpdateExpression : JintExpression
     {

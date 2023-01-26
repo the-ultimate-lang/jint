@@ -2,7 +2,7 @@
 
 using System.Runtime.CompilerServices;
 
-namespace Jint.Native.Number.Dtoa
+namespace Ultimate.Language.Jint.Native.Number.Dtoa
 {
     internal static class NumberExtensions
     {

@@ -1,6 +1,6 @@
 using System.Collections;
 
-namespace Jint.Runtime.Debugger
+namespace Ultimate.Language.Jint.Runtime.Debugger
 {
     /// <summary>
     /// Collection of breakpoints.

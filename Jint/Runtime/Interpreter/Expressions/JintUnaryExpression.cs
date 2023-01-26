@@ -1,15 +1,15 @@
 using Esprima.Ast;
-using Jint.Extensions;
-using Jint.Native;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interop;
-using Jint.Runtime.References;
+using Ultimate.Language.Jint.Extensions;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Runtime.References;
 using System.Collections.Concurrent;
 using System.Diagnostics.CodeAnalysis;
 using System.Numerics;
 using System.Reflection;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     internal sealed class JintUnaryExpression : JintExpression
     {

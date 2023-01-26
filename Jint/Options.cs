@@ -1,15 +1,15 @@
 ﻿using System.Dynamic;
 using System.Globalization;
 using System.Reflection;
-using Jint.Native;
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Interop;
-using Jint.Runtime.Debugger;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Modules;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Runtime.Debugger;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Modules;
 
-namespace Jint
+namespace Ultimate.Language.Jint
 {
     public delegate JsValue? MemberAccessorDelegate(Engine engine, object target, string member);
 

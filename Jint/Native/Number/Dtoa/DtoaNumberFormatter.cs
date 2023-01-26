@@ -1,9 +1,9 @@
 #nullable disable
 
 using System.Diagnostics;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.Number.Dtoa
+namespace Ultimate.Language.Jint.Native.Number.Dtoa
 {
     internal static class DtoaNumberFormatter
     {

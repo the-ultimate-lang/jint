@@ -1,10 +1,10 @@
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Environments;
 
-namespace Jint.Native.ShadowRealm;
+namespace Ultimate.Language.Jint.Native.ShadowRealm;
 
 /// <summary>
 /// https://tc39.es/proposal-shadowrealm/#sec-properties-of-the-shadowRealm-constructor

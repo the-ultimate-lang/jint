@@ -1,6 +1,6 @@
-using Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Object;
 
-namespace Jint.Native;
+namespace Ultimate.Language.Jint.Native;
 
 internal interface IConstructor
 {

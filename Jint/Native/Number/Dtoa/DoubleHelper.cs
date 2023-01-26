@@ -32,7 +32,7 @@
 
 using System.Diagnostics;
 
-namespace Jint.Native.Number.Dtoa
+namespace Ultimate.Language.Jint.Native.Number.Dtoa
 {
     /// <summary>
     /// Helper functions for doubles.

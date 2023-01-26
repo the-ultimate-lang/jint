@@ -1,9 +1,9 @@
 using System;
 using System.Runtime.CompilerServices;
-using Jint.Native;
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.Environments;
 
-namespace Jint.Runtime.References
+namespace Ultimate.Language.Jint.Runtime.References
 {
     /// <summary>
     /// Represents the Reference Specification Type

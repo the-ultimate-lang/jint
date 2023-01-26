@@ -1,4 +1,4 @@
-namespace Jint.Extensions
+namespace Ultimate.Language.Jint.Extensions
 {
     internal static class JavascriptExtensions
     {

@@ -1,7 +1,7 @@
-using Jint.Native.Object;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native;
+namespace Ultimate.Language.Jint.Native;
 
 /// <summary>
 /// Dynamically constructed JavaScript object instance.

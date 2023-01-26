@@ -1,8 +1,8 @@
 using System.Runtime.CompilerServices;
-using Jint.Native.Object;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.Number;
+namespace Ultimate.Language.Jint.Native.Number;
 
 internal class NumberInstance : ObjectInstance, IPrimitiveInstance
 {

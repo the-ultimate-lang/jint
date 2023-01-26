@@ -1,11 +1,11 @@
 using Esprima;
-using Jint.Native;
-using Jint.Native.Error;
-using Jint.Native.Object;
-using Jint.Pooling;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Error;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Pooling;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Runtime;
+namespace Ultimate.Language.Jint.Runtime;
 
 public class JavaScriptException : JintException
 {

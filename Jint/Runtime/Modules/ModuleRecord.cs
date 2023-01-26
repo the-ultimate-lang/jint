@@ -1,10 +1,10 @@
 #nullable disable
 
-using Jint.Native;
-using Jint.Native.Object;
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Environments;
 
-namespace Jint.Runtime.Modules;
+namespace Ultimate.Language.Jint.Runtime.Modules;
 
 internal sealed record ExportResolveSetItem(
     CyclicModuleRecord Module,

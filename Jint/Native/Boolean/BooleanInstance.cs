@@ -1,7 +1,7 @@
-using Jint.Native.Object;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.Boolean;
+namespace Ultimate.Language.Jint.Native.Boolean;
 
 internal class BooleanInstance : ObjectInstance, IPrimitiveInstance
 {

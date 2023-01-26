@@ -1,11 +1,11 @@
-using Jint.Native.Error;
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Native.TypedArray;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native.Error;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.TypedArray;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.AggregateError;
+namespace Ultimate.Language.Jint.Native.AggregateError;
 
 /// <summary>
 /// https://tc39.es/ecma262/#sec-aggregate-error-constructor

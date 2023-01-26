@@ -1,6 +1,6 @@
 using Esprima.Ast;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     internal sealed class JintConditionalExpression : JintExpression
     {

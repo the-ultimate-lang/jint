@@ -1,9 +1,9 @@
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Object;
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Environments;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     public sealed class Realm
     {

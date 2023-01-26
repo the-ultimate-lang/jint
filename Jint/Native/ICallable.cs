@@ -1,4 +1,4 @@
-namespace Jint.Native;
+namespace Ultimate.Language.Jint.Native;
 
 internal interface ICallable
 {

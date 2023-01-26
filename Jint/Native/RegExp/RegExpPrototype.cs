@@ -1,16 +1,16 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using System.Text.RegularExpressions;
-using Jint.Collections;
-using Jint.Native.Number;
-using Jint.Native.Object;
-using Jint.Native.String;
-using Jint.Native.Symbol;
-using Jint.Pooling;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native.Number;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.String;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Pooling;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Native.RegExp
+namespace Ultimate.Language.Jint.Native.RegExp
 {
     internal sealed class RegExpPrototype : Prototype
     {

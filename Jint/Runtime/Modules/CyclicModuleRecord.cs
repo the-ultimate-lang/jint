@@ -1,12 +1,12 @@
 ﻿#nullable disable
 
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Promise;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Promise;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint.Runtime.Modules;
+namespace Ultimate.Language.Jint.Runtime.Modules;
 
 #pragma warning disable CS0649 // never assigned to, waiting for new functionalities in spec
 

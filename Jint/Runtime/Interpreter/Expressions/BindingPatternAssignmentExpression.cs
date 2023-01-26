@@ -1,12 +1,12 @@
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Array;
-using Jint.Native.Function;
-using Jint.Native.Iterator;
-using Jint.Runtime.Environments;
-using Jint.Runtime.References;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Array;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Iterator;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.References;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     internal sealed class BindingPatternAssignmentExpression : JintExpression
     {

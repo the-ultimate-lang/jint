@@ -1,10 +1,10 @@
 using System.Diagnostics.CodeAnalysis;
-using Jint.Native;
-using Jint.Native.Object;
-using Jint.Native.Symbol;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Runtime.Environments
+namespace Ultimate.Language.Jint.Runtime.Environments
 {
     /// <summary>
     /// Represents an object environment record

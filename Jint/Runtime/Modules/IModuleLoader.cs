@@ -1,6 +1,6 @@
 using Esprima.Ast;
 
-namespace Jint.Runtime.Modules;
+namespace Ultimate.Language.Jint.Runtime.Modules;
 
 /// <summary>
 /// Module loader interface that allows defining how module loadings requests are handled.

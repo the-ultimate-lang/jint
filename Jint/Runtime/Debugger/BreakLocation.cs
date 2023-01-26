@@ -1,4 +1,4 @@
-namespace Jint.Runtime.Debugger;
+namespace Ultimate.Language.Jint.Runtime.Debugger;
 
 /// <summary>
 /// BreakLocation is a combination of an Esprima position (line and column) and a source (path or identifier of script).

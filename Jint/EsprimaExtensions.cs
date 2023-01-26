@@ -1,16 +1,16 @@
 using System.Runtime.CompilerServices;
 using Esprima;
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter;
-using Jint.Runtime.Interpreter.Expressions;
-using Jint.Runtime.Modules;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
+using Ultimate.Language.Jint.Runtime.Modules;
 
-namespace Jint
+namespace Ultimate.Language.Jint
 {
     public static class EsprimaExtensions
     {

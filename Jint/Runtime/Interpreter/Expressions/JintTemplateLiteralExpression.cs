@@ -1,8 +1,8 @@
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Pooling;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Pooling;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     internal sealed class JintTemplateLiteralExpression : JintExpression
     {

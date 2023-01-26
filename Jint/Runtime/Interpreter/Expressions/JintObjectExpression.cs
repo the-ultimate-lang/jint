@@ -1,11 +1,11 @@
 using Esprima.Ast;
-using Jint.Collections;
-using Jint.Native;
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     /// <summary>
     /// https://tc39.es/ecma262/#sec-object-initializer

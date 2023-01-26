@@ -1,6 +1,6 @@
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Descriptors
+namespace Ultimate.Language.Jint.Runtime.Descriptors
 {
     public sealed class GetSetPropertyDescriptor : PropertyDescriptor
     {

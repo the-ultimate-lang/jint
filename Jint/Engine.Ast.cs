@@ -1,10 +1,10 @@
 using Esprima;
 using Esprima.Ast;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter;
-using Jint.Runtime.Interpreter.Expressions;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
-namespace Jint;
+namespace Ultimate.Language.Jint;
 
 public partial class Engine
 {

@@ -1,7 +1,7 @@
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Environments;
 using System.Collections;
 
-namespace Jint.Runtime.Debugger
+namespace Ultimate.Language.Jint.Runtime.Debugger
 {
     public sealed class DebugScopes : IReadOnlyList<DebugScope>
     {

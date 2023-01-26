@@ -8,7 +8,7 @@ using System.Collections;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
 
-namespace Jint.Collections
+namespace Ultimate.Language.Jint.Collections
 {
     /// <summary>
     /// DictionarySlim<string, TValue> is similar to Dictionary<TKey, TValue> but optimized in three ways:

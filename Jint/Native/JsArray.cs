@@ -1,7 +1,7 @@
-using Jint.Native.Array;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native.Array;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native;
+namespace Ultimate.Language.Jint.Native;
 
 public sealed class JsArray : ArrayInstance
 {

@@ -1,12 +1,12 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
 using System.Threading;
-using Jint.Native;
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Interop;
 
-namespace Jint
+namespace Ultimate.Language.Jint
 {
     internal static class DefaultObjectConverter
     {

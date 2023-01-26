@@ -1,16 +1,16 @@
 ﻿using Esprima;
 using Esprima.Ast;
 using Esprima.Utils;
-using Jint.Native.Function;
-using Jint.Native.Object;
-using Jint.Native.Promise;
-using Jint.Runtime;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter;
-using Jint.Runtime.Interpreter.Statements;
-using Jint.Runtime.Modules;
+using Ultimate.Language.Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Promise;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter;
+using Ultimate.Language.Jint.Runtime.Interpreter.Statements;
+using Ultimate.Language.Jint.Runtime.Modules;
 
-namespace Jint.Native.ShadowRealm;
+namespace Ultimate.Language.Jint.Native.ShadowRealm;
 
 /// <summary>
 /// https://tc39.es/proposal-shadowrealm/#sec-properties-of-shadowrealm-instances

@@ -1,14 +1,14 @@
 using System.Collections;
 using System.Globalization;
 using System.Reflection;
-using Jint.Native;
-using Jint.Native.Iterator;
-using Jint.Native.Object;
-using Jint.Native.Symbol;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Interop.Reflection;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Iterator;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Symbol;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Interop.Reflection;
 
-namespace Jint.Runtime.Interop
+namespace Ultimate.Language.Jint.Runtime.Interop
 {
 	/// <summary>
 	/// Wraps a CLR instance

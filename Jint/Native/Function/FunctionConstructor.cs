@@ -1,10 +1,10 @@
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter;
 
-namespace Jint.Native.Function
+namespace Ultimate.Language.Jint.Native.Function
 {
     /// <summary>
     /// https://tc39.es/ecma262/#sec-function-constructor

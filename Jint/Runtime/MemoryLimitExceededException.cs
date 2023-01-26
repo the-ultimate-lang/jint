@@ -1,4 +1,4 @@
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     public sealed class MemoryLimitExceededException : JintException
     {

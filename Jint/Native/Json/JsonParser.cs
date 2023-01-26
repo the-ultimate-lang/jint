@@ -2,13 +2,13 @@ using System.Globalization;
 using System.Runtime.CompilerServices;
 using Esprima;
 using Esprima.Ast;
-using Jint.Native.Object;
-using Jint.Pooling;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Pooling;
+using Ultimate.Language.Jint.Runtime;
 
 using Range = Esprima.Range;
 
-namespace Jint.Native.Json
+namespace Ultimate.Language.Jint.Native.Json
 {
     public sealed class JsonParser
     {

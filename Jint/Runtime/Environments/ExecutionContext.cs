@@ -1,7 +1,7 @@
 using System.Runtime.InteropServices;
-using Jint.Native.Function;
+using Ultimate.Language.Jint.Native.Function;
 
-namespace Jint.Runtime.Environments;
+namespace Ultimate.Language.Jint.Runtime.Environments;
 
 [StructLayout(LayoutKind.Auto)]
 internal readonly struct ExecutionContext

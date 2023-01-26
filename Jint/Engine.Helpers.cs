@@ -1,6 +1,6 @@
-using Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Environments;
 
-namespace Jint;
+namespace Ultimate.Language.Jint;
 
 /// <summary>
 /// Contains helpers and compatibility shims.

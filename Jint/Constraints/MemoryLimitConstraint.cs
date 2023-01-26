@@ -1,6 +1,6 @@
-using Jint.Runtime;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Constraints;
+namespace Ultimate.Language.Jint.Constraints;
 
 public sealed class MemoryLimitConstraint : Constraint
 {

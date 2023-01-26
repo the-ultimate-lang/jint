@@ -1,7 +1,7 @@
 using Esprima.Ast;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Modules;
+namespace Ultimate.Language.Jint.Runtime.Modules;
 
 /// <summary>
 /// This is a custom ModuleRecord implementation for dynamically built modules using <see cref="ModuleBuilder"/>

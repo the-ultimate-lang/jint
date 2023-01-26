@@ -1,7 +1,7 @@
-using Jint.Runtime;
+using Ultimate.Language.Jint.Runtime;
 using System.Threading;
 
-namespace Jint.Constraints;
+namespace Ultimate.Language.Jint.Constraints;
 
 public sealed class CancellationConstraint : Constraint
 {

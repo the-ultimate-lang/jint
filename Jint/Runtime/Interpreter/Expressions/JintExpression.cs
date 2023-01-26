@@ -1,12 +1,12 @@
 using System.Numerics;
 using System.Runtime.CompilerServices;
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Iterator;
-using Jint.Native.Number;
-using Jint.Runtime.References;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Iterator;
+using Ultimate.Language.Jint.Native.Number;
+using Ultimate.Language.Jint.Runtime.References;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     internal abstract class JintExpression
     {

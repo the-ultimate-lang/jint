@@ -1,12 +1,12 @@
 using System.Runtime.CompilerServices;
 using Esprima;
-using Jint.Native.ArrayBuffer;
-using Jint.Native.Number;
-using Jint.Native.Object;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Native.ArrayBuffer;
+using Ultimate.Language.Jint.Native.Number;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
 
-namespace Jint.Native.TypedArray
+namespace Ultimate.Language.Jint.Native.TypedArray
 {
     public sealed class TypedArrayInstance : ObjectInstance
     {

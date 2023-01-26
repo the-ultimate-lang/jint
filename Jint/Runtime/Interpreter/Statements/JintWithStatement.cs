@@ -1,8 +1,8 @@
 using Esprima.Ast;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter.Expressions;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
-namespace Jint.Runtime.Interpreter.Statements
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Statements
 {
     /// <summary>
     /// http://www.ecma-international.org/ecma-262/5.1/#sec-12.10

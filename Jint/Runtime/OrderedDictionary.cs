@@ -9,7 +9,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.Globalization;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     /// <summary>
     /// Represents a dictionary that tracks the order that items were added.

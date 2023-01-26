@@ -1,4 +1,4 @@
-namespace Jint.Native.Object;
+namespace Ultimate.Language.Jint.Native.Object;
 
 /// <summary>
 /// Keeps track of changes to object, mainly meant for prototype change detection.

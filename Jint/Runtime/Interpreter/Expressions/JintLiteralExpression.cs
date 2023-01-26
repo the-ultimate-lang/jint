@@ -1,9 +1,9 @@
 using System.Numerics;
 using Esprima;
 using Esprima.Ast;
-using Jint.Native;
+using Ultimate.Language.Jint.Native;
 
-namespace Jint.Runtime.Interpreter.Expressions
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Expressions
 {
     internal sealed class JintLiteralExpression : JintExpression
     {

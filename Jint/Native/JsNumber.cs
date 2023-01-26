@@ -1,9 +1,9 @@
 using System.Numerics;
 using System.Runtime.CompilerServices;
-using Jint.Native.Number;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Number;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native;
+namespace Ultimate.Language.Jint.Native;
 
 public sealed class JsNumber : JsValue, IEquatable<JsNumber>
 {

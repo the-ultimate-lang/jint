@@ -1,14 +1,14 @@
 using System.Diagnostics.CodeAnalysis;
 using Esprima.Ast;
-using Jint.Native;
-using Jint.Native.Iterator;
-using Jint.Native.Object;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter.Expressions;
-using Jint.Runtime.References;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Iterator;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
+using Ultimate.Language.Jint.Runtime.References;
 
-namespace Jint.Runtime.Interpreter.Statements
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Statements
 {
     /// <summary>
     /// https://tc39.es/ecma262/#sec-for-in-and-for-of-statements

@@ -1,9 +1,9 @@
 using System.Globalization;
-using Jint.Native.Object;
-using Jint.Native.RegExp;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.RegExp;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.Iterator
+namespace Ultimate.Language.Jint.Native.Iterator
 {
     internal class IteratorInstance : ObjectInstance
     {

@@ -1,13 +1,13 @@
-using Jint.Native;
-using Jint.Native.Global;
-using Jint.Native.Object;
-using Jint.Native.Promise;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interop;
-using Jint.Runtime.Modules;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Global;
+using Ultimate.Language.Jint.Native.Object;
+using Ultimate.Language.Jint.Native.Promise;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interop;
+using Ultimate.Language.Jint.Runtime.Modules;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     public class Host
     {

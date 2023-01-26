@@ -1,7 +1,7 @@
 using Esprima.Ast;
-using Jint.Runtime.Interpreter.Expressions;
+using Ultimate.Language.Jint.Runtime.Interpreter.Expressions;
 
-namespace Jint.Runtime.Interpreter.Statements;
+namespace Ultimate.Language.Jint.Runtime.Interpreter.Statements;
 
 internal sealed class JintExpressionStatement : JintStatement<ExpressionStatement>
 {

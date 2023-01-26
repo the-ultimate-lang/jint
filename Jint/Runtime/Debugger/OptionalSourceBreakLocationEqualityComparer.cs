@@ -1,4 +1,4 @@
-namespace Jint.Runtime.Debugger;
+namespace Ultimate.Language.Jint.Runtime.Debugger;
 
 /// <summary>
 /// Equality comparer for BreakLocation matching null Source to any other Source.

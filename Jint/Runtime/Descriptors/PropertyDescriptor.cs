@@ -1,10 +1,10 @@
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
-using Jint.Collections;
-using Jint.Native;
-using Jint.Native.Object;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Native.Object;
 
-namespace Jint.Runtime.Descriptors
+namespace Ultimate.Language.Jint.Runtime.Descriptors
 {
     [DebuggerDisplay("Value: {Value}, Flags: {Flags}")]
     public class PropertyDescriptor

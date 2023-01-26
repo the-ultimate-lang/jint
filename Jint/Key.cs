@@ -1,7 +1,7 @@
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
 
-namespace Jint
+namespace Ultimate.Language.Jint
 {
     /// <summary>
     /// Represents a key that Jint uses with pre-calculated hash code

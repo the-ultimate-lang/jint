@@ -1,6 +1,6 @@
 using Esprima.Ast;
 
-namespace Jint.Runtime
+namespace Ultimate.Language.Jint.Runtime
 {
     /// <summary>
     /// Workaround for situation where engine is not easily accessible.

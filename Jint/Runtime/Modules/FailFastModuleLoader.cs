@@ -1,6 +1,6 @@
 using Esprima.Ast;
 
-namespace Jint.Runtime.Modules;
+namespace Ultimate.Language.Jint.Runtime.Modules;
 
 internal sealed class FailFastModuleLoader : IModuleLoader
 {

@@ -1,4 +1,4 @@
-namespace Jint.Native.ArrayBuffer;
+namespace Ultimate.Language.Jint.Native.ArrayBuffer;
 
 internal enum ArrayBufferOrder
 {

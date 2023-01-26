@@ -1,7 +1,7 @@
 using System.Numerics;
-using Jint.Runtime;
+using Ultimate.Language.Jint.Runtime;
 
-namespace Jint.Native.TypedArray;
+namespace Ultimate.Language.Jint.Native.TypedArray;
 
 /// <summary>
 /// Container for either double or BigInteger.

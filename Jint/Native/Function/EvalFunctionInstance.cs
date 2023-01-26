@@ -1,11 +1,11 @@
 using Esprima;
 using Esprima.Ast;
-using Jint.Runtime;
-using Jint.Runtime.Descriptors;
-using Jint.Runtime.Environments;
-using Jint.Runtime.Interpreter.Statements;
+using Ultimate.Language.Jint.Runtime;
+using Ultimate.Language.Jint.Runtime.Descriptors;
+using Ultimate.Language.Jint.Runtime.Environments;
+using Ultimate.Language.Jint.Runtime.Interpreter.Statements;
 
-namespace Jint.Native.Function
+namespace Ultimate.Language.Jint.Native.Function
 {
     internal sealed class EvalFunctionInstance : FunctionInstance
     {

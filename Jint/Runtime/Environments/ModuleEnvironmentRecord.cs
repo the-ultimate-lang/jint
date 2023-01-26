@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics.CodeAnalysis;
-using Jint.Collections;
-using Jint.Native;
-using Jint.Runtime.Modules;
+using Ultimate.Language.Jint.Collections;
+using Ultimate.Language.Jint.Native;
+using Ultimate.Language.Jint.Runtime.Modules;
 
-namespace Jint.Runtime.Environments;
+namespace Ultimate.Language.Jint.Runtime.Environments;
 
 /// <summary>
 /// Represents a module environment record
